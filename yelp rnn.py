@@ -128,4 +128,3 @@ print('Test accuracy:', score[1])
 Test loss: 0.480989840669
 Test accuracy: 0.912527798413
 '''
-
